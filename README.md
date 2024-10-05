@@ -1,2 +1,2 @@
 # portfolio
-This is Sahin Nayak's Portfolio Website
+This Is Sahin Nayak's Portfolio Website.
